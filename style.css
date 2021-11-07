@@ -1,0 +1,13 @@
+.inpForm{
+    text-align: center;
+}
+
+.myButton{
+    width: 11%;
+    text-align: center;
+}
+
+.myButton:hover{
+    background-color: aquamarine;
+    color:wheat;
+}
